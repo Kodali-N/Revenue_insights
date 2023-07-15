@@ -5,11 +5,11 @@
 The revenue of a fictional company that has mutliple hotels across India is analyzed with the help of PowerBI
 
 ## Dataset
-- datasets can be found here: [data](https://github.com/Kodali-N/Revenue_insights/tree/main/data)
-- Description of the columns from all the csv files can be found here:
+- datasets can be found [here](https://github.com/Kodali-N/Revenue_insights/tree/main/data)
+- Description of the columns from all the csv files can be found [here](https://github.com/Kodali-N/Revenue_insights/blob/main/data/data_description.pdf)
 
 ## Measures
-- Information of the measures and their DAX formula can be found here: 
+- Information of the measures and their DAX formula can be found [here] 
 
 ## Dashboard
 - tools used: PowerBI
