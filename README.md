@@ -2,7 +2,7 @@
 # Revenue Insights using PowerBI
 
 ## Overview
-The revenue of a fictional company that has mutliple hotels across India is analyzed with the help of PowerBI
+The revenue of a fictional company that has multiple hotels across India is analyzed with the help of PowerBI
 
 ## Dataset
 - datasets can be found [here](https://github.com/Kodali-N/Revenue_insights/tree/main/data)
