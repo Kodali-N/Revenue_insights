@@ -14,11 +14,12 @@ The revenue of a fictional company that has mutliple hotels across India is anal
 ## Dashboard
 - tools used: PowerBI
 - established the following realtion for applying filters
-(ss of of the data model)
+![Data_model](https://github.com/Kodali-N/Revenue_insights/assets/86663030/75613f5d-a363-46df-a21e-d92387405fca)
 - Perfomance measures such as total revenue, revenue per room, daily utilized rooms, occupancy percentage, etc can be easily analysed from the Dashboard
-(ss of the final dashboard)
+![Dashboard_final](https://github.com/Kodali-N/Revenue_insights/assets/86663030/175f60de-f1a7-49fa-9dcb-5f495d06071c)
 - one can further anlyze the preformance based on city, room category, the month of the year, and also the week
-(ss of the filter)
+![filters](https://github.com/Kodali-N/Revenue_insights/assets/86663030/e56e7d56-ef44-417a-81c8-c18a156f4e46)
+![tooltip](https://github.com/Kodali-N/Revenue_insights/assets/86663030/75721891-1b8d-4df5-adf8-507f1c553250)
 
 
 
