@@ -9,7 +9,7 @@ The revenue of a fictional company that has mutliple hotels across India is anal
 - Description of the columns from all the csv files can be found [here](https://github.com/Kodali-N/Revenue_insights/blob/main/data/data_description.pdf)
 
 ## Measures
-- Information of the measures and their DAX formula can be found [here] 
+- Information of the measures and their DAX formula can be found [here](https://github.com/Kodali-N/Revenue_insights/tree/main/measures)
 
 ## Dashboard
 - tools used: PowerBI
